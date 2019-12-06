@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orxe-Rover", "Orxe-Rover\Orxe-Rover.csproj", "{B2AB3B4A-013E-4363-95BB-0E93FBCCFFAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orxe-Rover.Tests", "Orxe-Rover.Tests\Orxe-Rover.Tests.csproj", "{00E6E1AA-037B-467A-9308-B0E17FE32672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AB3B4A-013E-4363-95BB-0E93FBCCFFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AB3B4A-013E-4363-95BB-0E93FBCCFFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AB3B4A-013E-4363-95BB-0E93FBCCFFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AB3B4A-013E-4363-95BB-0E93FBCCFFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E6E1AA-037B-467A-9308-B0E17FE32672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E6E1AA-037B-467A-9308-B0E17FE32672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E6E1AA-037B-467A-9308-B0E17FE32672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E6E1AA-037B-467A-9308-B0E17FE32672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD49E110-5CA0-48B1-A2C5-A9A0D85C2FA8}
+	EndGlobalSection
+EndGlobal
