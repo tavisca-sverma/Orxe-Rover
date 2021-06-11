@@ -2,7 +2,7 @@ using System;
 using Xunit;
 using FluentAssertions;
 
-namespace Orxe_Rover.Tests
+namespace Mars_Rover.Tests
 {
     public class RoverFixtures
     {

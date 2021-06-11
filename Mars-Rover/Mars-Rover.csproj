@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <RootNamespace>Orxe_Rover</RootNamespace>
+    <RootNamespace>Mars_Rover</RootNamespace>
   </PropertyGroup>
 
 </Project>

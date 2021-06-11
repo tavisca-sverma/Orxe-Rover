@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Orxe_Rover
+namespace Mars_Rover
 {
     class Directions
     {

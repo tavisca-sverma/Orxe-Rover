@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orxe-Rover", "Orxe-Rover\Orxe-Rover.csproj", "{B2AB3B4A-013E-4363-95BB-0E93FBCCFFAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mars-Rover", "Mars-Rover\Mars-Rover.csproj", "{B2AB3B4A-013E-4363-95BB-0E93FBCCFFAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orxe-Rover.Tests", "Orxe-Rover.Tests\Orxe-Rover.Tests.csproj", "{00E6E1AA-037B-467A-9308-B0E17FE32672}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mars-Rover.Tests", "Mars-Rover.Tests\Mars-Rover.Tests.csproj", "{00E6E1AA-037B-467A-9308-B0E17FE32672}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

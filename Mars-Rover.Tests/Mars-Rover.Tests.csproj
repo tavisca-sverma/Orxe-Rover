@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <RootNamespace>Orxe_Rover.Tests</RootNamespace>
+    <RootNamespace>Mars_Rover.Tests</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Orxe-Rover\Orxe-Rover.csproj" />
+    <ProjectReference Include="..\Mars-Rover\Mars-Rover.csproj" />
   </ItemGroup>
 
 </Project>
